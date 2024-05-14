@@ -5,6 +5,8 @@ El método de interpolación de Lagrange es una técnica utilizada para encontra
 Es útil cuando se tiene un conjunto de puntos discretos y se desea encontrar una función que pase exactamente por esos puntos.
 [![polinomios-de-Lagrange-0-1-2.jpg](https://i.postimg.cc/XJwXhsXP/polinomios-de-Lagrange-0-1-2.jpg)](https://postimg.cc/zbGJHSCw)
 
+[Ejercicio de clase](Ejerciciodeclase.java)
+
 [Ejercicio 1](Ejercicio1.java)
 
 [Ejercicio 2](Ejercicio2.java)
