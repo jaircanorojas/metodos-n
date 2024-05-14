@@ -6,8 +6,8 @@ Es útil cuando se tiene un conjunto de puntos discretos y se desea encontrar un
 
 [Ejercicio 1](Ejercicio1.java)
 
-[Ejercicio 2](Ejercicio1.java)
+[Ejercicio 2](Ejercicio2.java)
 
-[Ejercicio 3](Ejercicio1.java)
+[Ejercicio 3](Ejercicio3.java)
 
-[Ejercicio 4](Ejercicio1.java)
+[Ejercicio 4](Ejercicio4.java)
