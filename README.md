@@ -3,7 +3,7 @@ T5 - E2 - Problemario
 # Método de interpolación
 El método de interpolación de Lagrange es una técnica utilizada para encontrar un polinomio que pasa a través de un conjunto dado de puntos. 
 Es útil cuando se tiene un conjunto de puntos discretos y se desea encontrar una función que pase exactamente por esos puntos.
-[![1200px-Lagrange-polynomial-svg.png](https://i.postimg.cc/RF1yHmJ0/1200px-Lagrange-polynomial-svg.png)](https://postimg.cc/FdRDM2Zt)
+[![polinomios-de-Lagrange-0-1-2.jpg](https://i.postimg.cc/XJwXhsXP/polinomios-de-Lagrange-0-1-2.jpg)](https://postimg.cc/zbGJHSCw)
 
 [Ejercicio 1](Ejercicio1.java)
 
