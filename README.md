@@ -37,7 +37,7 @@ Algoritmo
 
 6: Mostrar el resultado: Muestra el valor interpolado de 𝑦 en el punto 𝑥.
 
-[Ejercicio 1]()
+[Ejercicio 1](Ejercicio1C.java)
 
 [Ejercicio 2]()
 
