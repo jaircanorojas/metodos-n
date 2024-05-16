@@ -1,4 +1,4 @@
-# metodos-n
+# Metodos-numericos Tema 5
 T5 - E2 - Problemario
 # Método de interpolación
 El método de interpolación de Lagrange es una técnica utilizada para encontrar un polinomio que pasa a través de un conjunto dado de puntos. 
