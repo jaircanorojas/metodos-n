@@ -19,13 +19,13 @@ Es útil cuando se tiene un conjunto de puntos discretos y se desea encontrar un
 
 El concepto básico de la interpolación cuadrática implica seleccionar tres puntos de datos conocidos (x0, y0), (x1, y1) y (x2, y2) y encontrar una parábola que pase exactamente a través de estos tres puntos.
 
-Formula
+## Formula
 
 [![330670660-02296822-fded-4449-b7b3-27c52293188c.png](https://i.postimg.cc/sg3DqFYb/330670660-02296822-fded-4449-b7b3-27c52293188c.png)](https://postimg.cc/BXw0PVwC)
 
 [![Polynomialdeg2-svg.png](https://i.postimg.cc/Y0NW4Gbt/Polynomialdeg2-svg.png)](https://postimg.cc/y3ddtNMG)
 
-Algoritmo
+## Algoritmo
 
 1: Obtener los puntos conocidos: Identifica los tres puntos conocidos (x0, y0), (x1, y1) y (x2, y2) que utilizarás para realizar la interpolación cuadrática.
 
