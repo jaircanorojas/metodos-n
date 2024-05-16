@@ -39,11 +39,13 @@ Algoritmo
 
 [Ejercicio 1](Ejercicio1C.java)
 
-[Ejercicio 2]()
+[Ejercicio 2](Ejercicio2C.java)
 
-[Ejercicio 3]()
+[Ejercicio 3](Ejercicio3C.java)
 
-[Ejercicio 4]()
+[Ejercicio 4](Ejercicio4C.java)
+
+[Ejercicio 5](Ejercicio5C.java)
 
 
 
